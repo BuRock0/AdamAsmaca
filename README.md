@@ -5,7 +5,6 @@ Kendi belirlemiş olduğum kelimeleri alfabemizdeki 29 harfi kullanarak bulmaya 
 
 (kapı, çekmece, anahtarlık, bulmaca, yokartık ,bilgisayar ,terzi, terazi)
 
-AdamAsmaca.html'e tıklayarak oyunu tarayıcınızda oynayabilirsiniz.
 
 ## Oyun içi bilgiler 
 
