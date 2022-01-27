@@ -10,7 +10,7 @@ Kendi belirlemiş olduğum kelimeleri alfabemizdeki 29 harfi kullanarak bulmaya 
 
 Oyun 8 "Hak" tan oluşuyor.
 
-Sol tarafta yanlış harf söylersek yandığımızı gösteren asılmış bir şekilde "Cin Ali " nin iskeleti çıkıyor 
+Sol tarafta yanlış harf söylersek "Darağacı"nda asılmış bir şekilde "Cin Ali " nin iskeleti çıkıyor 
 
 Sağ tafta kullandığımız harfleri gösteriyor
 
